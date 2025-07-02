@@ -1,6 +1,0 @@
-define('DB_NAME', 'john-database');
-define('DB_USER', 'j0hn');
-define('DB_PASSWORD', '@dm1n_j0hn');
-define('DB_HOST', 'localhost'); // ko'pincha 'localhost'
-define('DB_CHARSET', 'utf8');
-define('DB_COLLATE', '');
